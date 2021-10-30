@@ -1,8 +1,8 @@
 # Welcome to my profile!
 
-重庆邮电大学计算机的一名学生
+重邮人
 
-在学习C和前后端
+梦想是当全栈大佬
 
 BELIEVE IN YOURSELF! !
 
