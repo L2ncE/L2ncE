@@ -6,7 +6,7 @@
 
 BELIEVE IN YOURSELF! !
 
-学习计划
+## 学习计划
 
 - [x] C基础掌握
 - [x] Golang入门＋进阶//寒假
