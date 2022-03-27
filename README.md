@@ -1,10 +1,9 @@
 # Welcome To My Profile 👋
 
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@L2ncE.readme?theme=asoul"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme?theme=asoul"></a>
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=L2ncE.readme)
 [![Mail Badge](https://img.shields.io/badge/-llance_24@foxmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:llance_24@foxmail.com)](mailto:llance_24@foxmail.com)
 
 ---
