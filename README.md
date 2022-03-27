@@ -1,10 +1,10 @@
 # Welcome To My Profile 👋
 
+[![Mail Badge](https://img.shields.io/badge/-llance_24@foxmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:llance_24@foxmail.com)](mailto:llance_24@foxmail.com)
+
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme?theme=asoul"></a>
 </p>
-
-[![Mail Badge](https://img.shields.io/badge/-llance_24@foxmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:llance_24@foxmail.com)](mailto:llance_24@foxmail.com)
 
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
