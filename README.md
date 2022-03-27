@@ -1,6 +1,6 @@
 # Welcome To My Profile 👋
-![](https://visitor-badge.glitch.me/badge?page_id=L2ncE.readme)
 
+![](https://visitor-badge.glitch.me/badge?page_id=L2ncE.readme)
 [![Mail Badge](https://img.shields.io/badge/-llance_24@foxmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:llance_24@foxmail.com)](mailto:llance_24@foxmail.com)
 
 ---
@@ -25,4 +25,4 @@
 
 ## 关于我
 - [个人博客](https://yuanxinhao.top/)
-- [豆瓣电影](http://poordouban.work/)
+- [破产版豆瓣电影](http://poordouban.work/)
