@@ -15,7 +15,7 @@
 ## 🛠 技术栈 | Tech Stack
 
 - 💻 &#160; ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=007396)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=FCC624)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=FCC624)
 - 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
@@ -23,6 +23,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
+![PicGo](https://img.shields.io/badge/-PicGo-333333?style=flat&logo=PicGo)
 
 ## 关于我
 - [个人博客](https://yuanxinhao.top/)
