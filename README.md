@@ -6,8 +6,6 @@
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-![info](https://github-readme-stats.vercel.app/api?username=L2ncE&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
-
 ## I'm Xinhao Yuan
 - 重邮计算机菜狗
 - CSA云行工作室学员
@@ -27,3 +25,8 @@
 ## 关于我
 - [个人博客](https://yuanxinhao.top/)
 - [破产版豆瓣电影](http://poordouban.work/)
+
+![info](https://github-readme-stats.vercel.app/api?username=L2ncE&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
+> ***Go Love Yourself😊***
+⭐️ From [L2ncE](https://github.com/L2ncE)
