@@ -6,8 +6,8 @@
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-## I'm Xinhao Yuan
-- 重邮计算机菜狗
+## 🐭 I'm Xinhao Yuan
+- 重邮计算机菜鼠
 - CSA云行工作室学员
 
 ## 🛠 技术栈 | Tech Stack
@@ -22,7 +22,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
 
-## 关于我
+## 😎 关于我
 - [个人博客](https://yuanxinhao.top/)
 - [破产版豆瓣电影](http://poordouban.work/)
 
