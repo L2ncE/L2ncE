@@ -1,7 +1,5 @@
 # Welcome To My Profile 👋
 
-[![Mail Badge](https://img.shields.io/badge/-llance_24@foxmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:llance_24@foxmail.com)](mailto:llance_24@foxmail.com)
-
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme?theme=asoul"></a>
    <img src="https://weather-icon.journeyad.repl.co/@chongqing?v=1" align="right">
@@ -11,6 +9,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ## 🐭 I'm Xinhao Yuan
+[![Mail Badge](https://img.shields.io/badge/-llance_24@foxmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:llance_24@foxmail.com)](mailto:llance_24@foxmail.com)
 - 重邮计算机菜鼠
 - CSA云行工作室学员
 
