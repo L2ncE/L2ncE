@@ -9,7 +9,6 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ## 🐭 I'm Xinhao Yuan
-[![Mail Badge](https://img.shields.io/badge/-llance_24@foxmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:llance_24@foxmail.com)](mailto:llance_24@foxmail.com)
 - 重邮计算机菜鼠
 - CSA云行工作室学员
 
@@ -26,6 +25,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
 
 ## 😎 关于我
+[![Mail Badge](https://img.shields.io/badge/-llance_24@foxmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:llance_24@foxmail.com)](mailto:llance_24@foxmail.com)
 - [个人博客](https://yuanxinhao.top/)
 - [破产版豆瓣电影](http://poordouban.work/)
 
