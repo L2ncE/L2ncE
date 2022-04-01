@@ -1,10 +1,6 @@
 # Welcome To My Profile 👋
 
-<p>
-   ![](https://visitor-badge.glitch.me/badge?page_id=GitHub.readme)
-   <img src="https://weather-icon.journeyad.repl.co/@chongqing?v=1" align="right"
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=L2ncE&theme=xcode" /> </div>
-</p>
 
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
