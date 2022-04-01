@@ -1,7 +1,7 @@
 # Welcome To My Profile 👋
 
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme?theme=asoul"></a>
+![](http://antzuhl.cn:4000/get/@GitHub.readme)
    <img src="https://weather-icon.journeyad.repl.co/@chongqing?v=1" align="right"
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=L2ncE&theme=xcode" /> </div>
 </p>
