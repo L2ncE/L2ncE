@@ -1,7 +1,7 @@
 # Welcome To My Profile 👋
 
 <p>
-![](http://antzuhl.cn:4000/get/@GitHub.readme)
+   ![](https://visitor-badge.glitch.me/badge?page_id=GitHub.readme)
    <img src="https://weather-icon.journeyad.repl.co/@chongqing?v=1" align="right"
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=L2ncE&theme=xcode" /> </div>
 </p>
