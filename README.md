@@ -25,10 +25,10 @@
 - [个人博客](https://yuanxinhao.top/)
 - [破产版豆瓣电影](http://poordouban.work/)
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=L2ncE&theme=xcode" /> </div>
+![info](https://github-readme-stats.vercel.app/api?username=L2ncE&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 > ***Go Love Yourself😊***
 
 ⭐️ From [L2ncE](https://github.com/L2ncE)
 
-![info](https://github-readme-stats.vercel.app/api?username=L2ncE&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=L2ncE&theme=xcode" /> </div>
