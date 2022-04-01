@@ -1,6 +1,6 @@
 # Welcome To My Profile 👋
 
-<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@L2ncE.readme?theme=asoul"></a>
+<a href="https://count.getloli.com/"><img src="http://antzuhl.cn:4000/get/@antzuhl.readme"></a>
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=L2ncE&theme=xcode" /> </div>
 
