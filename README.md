@@ -20,6 +20,8 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
 
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=L2ncE&theme=xcode" /> </div>
+
 ## 😎 关于我
 [![Mail Badge](https://img.shields.io/badge/-llance_24@foxmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:llance_24@foxmail.com)](mailto:llance_24@foxmail.com)
 - [个人博客](https://yuanxinhao.top/)
@@ -30,5 +32,3 @@
 > ***Go Love Yourself😊***
 
 ⭐️ From [L2ncE](https://github.com/L2ncE)
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=L2ncE&theme=xcode" /> </div>
