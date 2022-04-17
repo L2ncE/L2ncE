@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ## 🐭 I'm Xinhao Yuan
-- 重庆邮电大学计算机专业老鼠人
+- 重庆邮电大学计算机学院老鼠人
 - 红岩网校Web开发部学员
 - 重邮计算机学院CSA-云行工作室后端开发学员
 
