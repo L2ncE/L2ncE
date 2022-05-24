@@ -19,8 +19,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=L2ncE&theme=github_dark)
-
 ## 😎 关于我
 [![Mail Badge](https://img.shields.io/badge/-llance_24@foxmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:llance_24@foxmail.com)](mailto:llance_24@foxmail.com)
 - [个人博客](https://yuanxinhao.top/)
