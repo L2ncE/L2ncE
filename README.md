@@ -26,7 +26,7 @@
 - [个人博客](https://yuanxinhao.top/)
 - [破产版豆瓣电影](http://poordouban.work/)
 
-![info](https://github-readme-stats.vercel.app/api?username=L2ncE&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=L2ncE&theme=github_dark)
 
 > ***Go Love Yourself😊***
 
