@@ -1,6 +1,6 @@
 # Welcome To My Profile 👋
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://s2.loli.net/2022/05/22/pj8fYPydlqnW7g5.gif" />
 
 ## 🐭 I'm Xinhao Yuan
 - 重庆邮电大学计算机学院老鼠人
