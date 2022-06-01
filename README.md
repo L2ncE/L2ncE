@@ -19,6 +19,8 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
+![ETCD](https://img.shields.io/badge/-ETCD-333333?style=flat&logo=ETCD)
+![gRPC](https://img.shields.io/badge/-gRPC-333333?style=flat&logo=gRPC)
 
 ## 😎 关于我
 [![Mail Badge](https://img.shields.io/badge/-llance_24@foxmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:llance_24@foxmail.com)](mailto:llance_24@foxmail.com)
