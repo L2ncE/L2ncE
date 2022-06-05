@@ -6,8 +6,6 @@
   </a>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=27&color=19A8F7&background=FFFFFF00&center=true&vCenter=true&lines=fmt.Printf(%22Hello%2C+World%22);%E5%97%A8%E5%91%80%EF%BC%8C%E4%BD%A0%E6%9D%A5%E8%BE%A3%EF%BC%81%F0%9F%92%95)](https://git.io/typing-svg)
-
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ## 🐭 I'm Xinhao Yuan
