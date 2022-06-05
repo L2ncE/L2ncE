@@ -1,6 +1,6 @@
 # Welcome To My Profile 👋
 
-<img align="right" alt="JPG" src="https://www.dmoe.cc/random.php" />
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
 
 ## 🐭 I'm Xinhao Yuan
 - 重庆邮电大学计算机学院老鼠人
