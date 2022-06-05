@@ -18,7 +18,6 @@
 - 💻 &#160; ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=FCC624)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=ACC624)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL&logoColor=FGB624)
 - 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
