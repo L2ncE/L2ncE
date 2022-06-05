@@ -1,6 +1,6 @@
 # Welcome To My Profile 👋
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ## 🐭 I'm Xinhao Yuan
 - 重庆邮电大学计算机学院老鼠人
@@ -20,6 +20,8 @@
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 ![ETCD](https://img.shields.io/badge/-ETCD-333333?style=flat&logo=ETCD)
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=L2ncE&theme=default_repocard" /> </div>
 
 ## 😎 关于我
 [![Mail Badge](https://img.shields.io/badge/-llance_24@foxmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:llance_24@foxmail.com)](mailto:llance_24@foxmail.com)
