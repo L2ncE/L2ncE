@@ -1,6 +1,10 @@
 # Welcome To My Profile 👋
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/L2ncE/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<h1 align="center">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);嗨呀，你来辣！&center=true&size=27">
+  </a>
+</h1>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
