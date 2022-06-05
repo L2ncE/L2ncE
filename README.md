@@ -35,9 +35,7 @@
 - [破产版豆瓣电影](http://poordouban.work/)
 
 ![info](https://github-readme-stats.vercel.app/api?username=L2ncE&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
-<div align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=L2ncE&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
+<img align="right" alt="png" src="https://github-readme-streak-stats.herokuapp.com?user=L2ncE&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
 
 > ***Go Love Yourself😊***
 
