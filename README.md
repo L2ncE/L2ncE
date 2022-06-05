@@ -34,7 +34,7 @@
 - [个人博客](https://yuanxinhao.top/)
 - [破产版豆瓣电影](http://poordouban.work/)
 
-<img align="right" alt="PNG" src="https://github-readme-stats.vercel.app/api?username=L2ncE&show_icons=true&count_private=true&hide=prs&theme=default_repocard" />
+<img align="bottom" alt="PNG" src="https://github-readme-stats.vercel.app/api?username=L2ncE&show_icons=true&count_private=true&hide=prs&theme=default_repocard" />
 
 > ***Go Love Yourself😊***
 
