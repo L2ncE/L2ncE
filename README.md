@@ -22,7 +22,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![Typora](https://img.shields.io/badge/-Typora-333333?style=flat&logo=typora)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 ![ETCD](https://img.shields.io/badge/-ETCD-333333?style=flat&logo=ETCD)
