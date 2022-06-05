@@ -1,6 +1,6 @@
 # Welcome To My Profile 👋
 
-<img align="right" alt="png" src="https://www.dmoe.cc/random.php" />
+<img align="right" alt="JPG" src="https://www.dmoe.cc/random.php" />
 
 ## 🐭 I'm Xinhao Yuan
 - 重庆邮电大学计算机学院老鼠人
