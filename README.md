@@ -37,8 +37,6 @@
 - [破产版豆瓣电影](http://poordouban.work/)
 
 
-> ***Valar Morghulis🤞***
-> 
-> ***Valar Dohaeris😊***
+> ***Valar Morghulis，Valar Dohaeris🤞***
 
 ⭐️ From [L2ncE](https://github.com/L2ncE)
