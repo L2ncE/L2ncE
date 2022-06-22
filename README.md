@@ -34,8 +34,6 @@
 [![Mail Badge](https://img.shields.io/badge/-llance_24@foxmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:llance_24@foxmail.com)](mailto:llance_24@foxmail.com)
 <img align="right" alt="PNG" src="https://github-readme-stats.vercel.app/api?username=L2ncE&show_icons=true&theme=default_repocard" />
 
-
-![ColdRain-Moro's github stats](https://github-readme-stats.vercel.app/api?username=ColdRain-Moro&show_icons=true&theme=radical)
 - [个人博客](https://yuanxinhao.top/)
 - [破产版豆瓣电影](http://poordouban.work/)
 
