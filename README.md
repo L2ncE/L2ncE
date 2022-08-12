@@ -9,9 +9,9 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ## 🐭 I'm Xinhao Yuan
+- **CloudWeGo**社区开发者
 - 重邮**勤奋蜂&极客工作室**Go方向负责人
 - 重邮计算机学院**CSA-云行工作室**后端开发组长
-- **CloudWeGo**社区开发者
 
 ## 🛠 技术栈 | Tech Stack
 
