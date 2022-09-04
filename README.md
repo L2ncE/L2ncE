@@ -26,7 +26,7 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![k8s](https://img.shields.io/badge/-k8s-333333?style=flat&logo=k8s)
+![kubernetes](https://img.shields.io/badge/-kubernetes-333333?style=flat&logo=kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 ![ETCD](https://img.shields.io/badge/-ETCD-333333?style=flat&logo=ETCD)
 
