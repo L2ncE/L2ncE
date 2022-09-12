@@ -37,8 +37,8 @@
 <img align="right" alt="PNG" src="https://github-readme-stats.vercel.app/api?username=L2ncE&show_icons=true&theme=default_repocard" />
 
 - [个人博客](https://lanlance.cn/)
-- [已停用博客（可访问）](https://yuanxinhao.top/)
-
+- [知识库](https://gists.lanlance.cn/)
+- [网盘站](https://pan.lanlance.cn/)
 
 > ***Valar Morghulis，Valar Dohaeris🤞***
 
