@@ -8,7 +8,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-## 🐭 I'm Xinhao Yuan
+## 😇 I'm Xinhao Yuan
 - **CloudWeGo**社区开发者
 - 重邮**勤奋蜂&极客工作室**Go方向负责人
 - 重邮计算机学院**CSA-云行工作室**后端开发导师
@@ -39,11 +39,11 @@
 <a href="https://github.com/L2ncE/cqupt-course-tool" target="_blank"><img align="right" img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=L2ncE&repo=cqupt-course-tool&show_icons=true" />
 </a>
 
-[食べて死ぬ](https://cv.lanlance.cn/cv.pdf)
+### 🤯
 
 <img align="right" alt="PNG" src="https://github-readme-stats.vercel.app/api?username=L2ncE&show_icons=true&theme=default_repocard" />
 
-- [个人博客](https://lanlance.cn/)
+- [博客](https://lanlance.cn/)
 - [贴吧自动签到](https://tieba.lanlance.cn/)
 - [知识库](https://gists.lanlance.cn/)
 - [网盘站](https://pan.lanlance.cn/)
