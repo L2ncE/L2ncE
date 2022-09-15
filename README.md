@@ -1,4 +1,4 @@
-<img src="https://picture.lanlance.cn/i/2022/09/15/632327e765bd7.png" alt="CloudWeGo" width="1000" height="800">
+<img src="https://user-images.githubusercontent.com/104130938/190409698-06dafee9-aec2-43df-8226-8351c331447d.jpg" alt="袁鑫浩" style="max-width: 100%;">
 
 # Welcome To My Profile 👋
 
