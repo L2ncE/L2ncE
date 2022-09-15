@@ -33,6 +33,11 @@
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=L2ncE&theme=minimal" /> </div>
 
 ## 😎 关于我
+
+<img align="right" img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=L2ncE&repo=goffee&show_icons=true" />
+
+<img align="left" img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=L2ncE&repo=cqupt-course-tool&show_icons=true" />
+
 [![Mail Badge](https://img.shields.io/badge/-llance_24@foxmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:llance_24@foxmail.com)](mailto:llance_24@foxmail.com)
 <img align="right" alt="PNG" src="https://github-readme-stats.vercel.app/api?username=L2ncE&show_icons=true&theme=default_repocard" />
 
