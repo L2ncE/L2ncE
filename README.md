@@ -9,7 +9,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ## 😇 I'm Xinhao Yuan
-- [**CloudWeGo**社区开发者](https://github.com/cloudwego/community/issues/33#issuecomment-1248058503)
+- [**CloudWeGo**社区开发者](https://picture.lanlance.cn/i/2022/09/15/632327e765bd7.png)
 - [重邮**勤奋蜂&极客工作室**Go方向负责人](https://github.com/gocybee)
 - 重邮计算机学院**CSA-云行工作室**后端开发导师
 
