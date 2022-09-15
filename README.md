@@ -39,10 +39,12 @@
 <a href="https://github.com/L2ncE/cqupt-course-tool" target="_blank"><img align="right" img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=L2ncE&repo=cqupt-course-tool&show_icons=true" />
 </a>
 
-[![Mail Badge](https://img.shields.io/badge/-llance_24@foxmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:llance_24@foxmail.com)](mailto:llance_24@foxmail.com)
+[食べて死ぬ](https://cv.lanlance.cn/cv.pdf)
+
 <img align="right" alt="PNG" src="https://github-readme-stats.vercel.app/api?username=L2ncE&show_icons=true&theme=default_repocard" />
 
 - [个人博客](https://lanlance.cn/)
+- [贴吧自动签到](https://tieba.lanlance.cn/)
 - [知识库](https://gists.lanlance.cn/)
 - [网盘站](https://pan.lanlance.cn/)
 
