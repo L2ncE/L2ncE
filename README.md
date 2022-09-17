@@ -35,7 +35,7 @@
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=L2ncE&theme=minimal" /> </div>
 
-## 😎 关于我
+## 😎 [关于我 | About Me](https://lanlance.cn/about)
 <a href="https://github.com/L2ncE/goffee" target="_blank"><img align="right" img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=L2ncE&repo=goffee&show_icons=true" />
 </a>
 
