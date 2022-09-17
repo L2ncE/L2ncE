@@ -42,7 +42,10 @@
 <a href="https://github.com/L2ncE/cqupt-course-tool" target="_blank"><img align="right" img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=L2ncE&repo=cqupt-course-tool&show_icons=true" />
 </a>
 
-### 🤯
+### E-mail
+[![Mail Badge](https://img.shields.io/badge/-生活邮箱（不怎么会回复）-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:llance_24@foxmail.com)](mailto:llance_24@foxmail.com)
+[![Mail Badge](https://img.shields.io/badge/-工作邮箱（有事找这个）-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yuanxinhao@lanlance.cn)](mailto:yuanxinhao@lanlance.cn)
+[![Mail Badge](https://img.shields.io/badge/-勤奋蜂专用（学第学妹找这个）-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yuanxinhao@gocybee.team)](mailto:yuanxinhao@gocybee.team)
 
 <img align="right" alt="PNG" src="https://github-readme-stats.vercel.app/api?username=L2ncE&show_icons=true&theme=default_repocard" />
 
@@ -54,3 +57,4 @@
 > ***Valar Morghulis，Valar Dohaeris🤞***
 
 ⭐️ From [L2ncE](https://github.com/L2ncE)
+
