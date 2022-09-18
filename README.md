@@ -22,7 +22,7 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=FCC624)
 ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=C)
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust)
-![TS](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
+![TS](https://img.shields.io/badge/-TS-333333?style=flat&logo=TypeScript)
 - 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
