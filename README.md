@@ -46,9 +46,9 @@
 
 - [个人网站](https://lanlance.cn/)
 - [博客](https://lanlance.cn/blog/)
-- [贴吧自动签到](https://tieba.lanlance.cn/)
 - [知识库](https://gists.lanlance.cn/)
 - [网盘站](https://pan.lanlance.cn/)
+- [贴吧自动签到](https://tieba.lanlance.cn/)
 
 > ***Valar Morghulis，Valar Dohaeris🤞***
 
