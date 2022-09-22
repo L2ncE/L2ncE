@@ -44,7 +44,8 @@
 
 <img align="right" alt="PNG" src="https://github-readme-stats.vercel.app/api?username=L2ncE&show_icons=true&theme=default_repocard" />
 
-- [博客](https://lanlance.cn/)
+- [个人网站](https://lanlance.cn/)
+- [博客](https://lanlance.cn/blog/)
 - [贴吧自动签到](https://tieba.lanlance.cn/)
 - [知识库](https://gists.lanlance.cn/)
 - [网盘站](https://pan.lanlance.cn/)
