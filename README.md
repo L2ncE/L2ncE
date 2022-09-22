@@ -36,13 +36,7 @@
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=L2ncE&theme=minimal" /> </div>
 
 ## 😎 [关于我 | About Me](https://lanlance.cn/about)
-<a href="https://github.com/L2ncE/goffee" target="_blank"><img align="right" img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=L2ncE&repo=goffee&show_icons=true" />
-</a>
 
-<a href="https://github.com/L2ncE/cqupt-course-tool" target="_blank"><img align="right" img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=L2ncE&repo=cqupt-course-tool&show_icons=true" />
-</a>
-
-### E-mail
 [![Mail Badge](https://img.shields.io/badge/-生活邮箱（不怎么会回复）-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:llance_24@foxmail.com)](mailto:llance_24@foxmail.com)
 [![Mail Badge](https://img.shields.io/badge/-工作邮箱（有事找这个）-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yuanxinhao@lanlance.cn)](mailto:yuanxinhao@lanlance.cn)
 [![Mail Badge](https://img.shields.io/badge/-勤奋蜂专用（学第学妹找这个）-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yuanxinhao@gocybee.team)](mailto:yuanxinhao@gocybee.team)
