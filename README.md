@@ -9,29 +9,6 @@
 
 <img src="https://user-images.githubusercontent.com/104130938/190409698-06dafee9-aec2-43df-8226-8351c331447d.jpg" alt="袁鑫浩" style="max-width: 100%;">
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-
-## 😇 LanLance Yuan
-
-Just Nobody
-
-## 🛠 技术栈 | Tech Stack
-
-- 💻 &#160; ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=007396)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=FCC624)
-![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=C)
-![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust)
-![TS](https://img.shields.io/badge/-TS-333333?style=flat&logo=TypeScript)
-- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
-- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=Nginx)
-![k8s](https://img.shields.io/badge/-k8s-333333?style=flat&logo=kubernetes)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
-![ETCD](https://img.shields.io/badge/-ETCD-333333?style=flat&logo=ETCD)
-
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=L2ncE&theme=minimal" /> </div>
 
 ## 😎 [关于我 | About Me](https://lanlance.cn/about)
