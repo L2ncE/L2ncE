@@ -1,5 +1,5 @@
 
-# 👻 Ay up!
+# Ay up! 💦
 
 <h1 align="center">
   <a href="https://lanlance.cn/">
