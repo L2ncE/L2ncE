@@ -14,10 +14,6 @@
 
 ##  [About Me](https://lanlance.cn/about)
 
-[![Mail Badge](https://img.shields.io/badge/-Life-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:llance_24@foxmail.com)](mailto:llance_24@foxmail.com)
-[![Mail Badge](https://img.shields.io/badge/-Work-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yuanxinhao@lanlance.cn)](mailto:yuanxinhao@lanlance.cn)
-[![Mail Badge](https://img.shields.io/badge/-gocybee-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yuanxinhao@gocybee.team)](mailto:yuanxinhao@gocybee.team)
-
 <img align="right" alt="PNG" src="https://github-readme-stats.vercel.app/api?username=L2ncE&show_icons=true&theme=default_repocard" />
 
 - [Personal Website](https://lanlance.cn/)
