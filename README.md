@@ -20,6 +20,7 @@
 - [Blog](https://lanlance.cn/blog/)
 - [Gists](https://gists.lanlance.cn/)
 - [Pan](https://pan.lanlance.cn/)
+- [Tieba](https://tieba.lanlance.cn/)
 
 > ***Valar Morghulis，Valar Dohaeris🤞***
 
