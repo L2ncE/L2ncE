@@ -1,5 +1,5 @@
 
-# Welcome To My Profile 👋
+# 👻 Ay up!
 
 <h1 align="center">
   <a href="https://lanlance.cn/">
