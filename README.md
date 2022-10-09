@@ -7,8 +7,6 @@
   </a>
 </h1>
 
-<img src="https://user-images.githubusercontent.com/104130938/190409698-06dafee9-aec2-43df-8226-8351c331447d.jpg" alt="袁鑫浩" style="max-width: 100%;">
-
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=L2ncE&theme=minimal" /> </div>
 
 ## 😎 [关于我 | About Me](https://lanlance.cn/about)
