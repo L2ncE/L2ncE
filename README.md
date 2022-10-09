@@ -7,6 +7,9 @@
   </a>
 </h1>
 
+
+![VoV](https://s2.loli.net/2022/07/09/pkPHa2WlAJZ4639.jpg)
+
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=L2ncE&theme=minimal" /> </div>
 
 ## 😎 [关于我 | About Me](https://lanlance.cn/about)
