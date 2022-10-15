@@ -14,7 +14,7 @@
 
 ##  [About Me](https://lanlance.cn/about)
 
-<img align="right" alt="PNG" src="https://github-readme-stats.vercel.app/api?username=L2ncE&show_icons=true&theme=default_repocard&include_all_commits=true&count_private=true&hide=stars&line_height=30" />
+<img align="right" alt="PNG" src="https://picture.lanlance.cn/i/2022/10/15/634a1a9832e65.png" width="612" height="216" />
 
 - [Personal Website](https://lanlance.cn/)
 - [Blog](https://lanlance.cn/blog/)
