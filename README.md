@@ -14,7 +14,7 @@
 
 ##  [About Me](https://lanlance.cn/about)
 
-<img align="right" alt="PNG" src="https://picture.lanlance.cn/i/2022/10/15/634a1a9832e65.png" width="612" height="216" />
+<img align="right" alt="PNG" src="https://picture.lanlance.cn/i/2022/10/15/634a1a9832e65.png" width="512" height="216" />
 
 - [Personal Website](https://lanlance.cn/)
 - [Blog](https://lanlance.cn/blog/)
