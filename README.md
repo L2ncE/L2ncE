@@ -41,19 +41,26 @@
 
 ### 💥 Some cool things I wrote
 
-#### Open Source Project Docs
+<details>
+  <summary><b>Open Source Project Docs</b></summary>
 
 - [hertz/tutorials/framework-exten/log](https://www.cloudwego.io/docs/hertz/tutorials/framework-exten/log/) | EN
 - [hertz/tutorials/framework-exten/log](https://www.cloudwego.io/zh/docs/hertz/tutorials/framework-exten/log/) | ZH
 - [hertz/tutorials/service-governance/service_discovery](https://www.cloudwego.io/docs/hertz/tutorials/service-governance/service_discovery/) | EN
 - [hertz/tutorials/service-governance/service_discovery](https://www.cloudwego.io/zh/docs/hertz/tutorials/service-governance/service_discovery/) | ZH
 
-#### Translation
+</details> 
+
+<details>
+  <summary><b>Translation</b></summary>
 
 - [hertz/tutorials/basic-feature/protocol/websocket](https://www.cloudwego.io/docs/hertz/tutorials/basic-feature/protocol/websocket/) | ZH => EN
 - [RFC9239.zh-cn](https://github.com/L2ncE/RFC9239.zh-cn) | EN => ZH
 
-#### Latest English Articles
+</details>
+
+<details>
+  <summary><b>Latest English Articles</b></summary>
 
 <!-- BLOG-POST-LIST:START -->
 - [Golang Reverse Proxy Practices](https://dev.to/llance_24/golang-reverse-proxy-practices-36od)
@@ -61,6 +68,8 @@
 - [Interpretation of Open Source Go HTTP Framework | Service Registration Extension Implementation](https://dev.to/llance_24/interpretation-of-open-source-go-http-framework-service-registration-extension-implementation-1j1i)
 - [Implementation of the core structure of the high-performance Go HTTP framework Hertz for beginners](https://dev.to/llance_24/implementation-of-the-core-structure-of-the-high-performance-go-http-framework-hertz-3ncp)
 <!-- BLOG-POST-LIST:END -->
+
+</details>
 
 > ***Valar Morghulis，Valar Dohaeris🤞***
 
