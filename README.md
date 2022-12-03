@@ -1,8 +1,6 @@
 
 ## Ay up! 💦
 
-<img align="right" alt="PNG" src="https://s2.loli.net/2022/07/09/pkPHa2WlAJZ4639.jpg" width="700" height="200" />
-
 - 🤡 Focus on infra dev in Go.
 - 🏡 Visit my website [home page](https://lanlance.cn/)
 - 📚 Blog at [lanlance.cn/blog](https://lanlance.cn/blog/)
@@ -52,3 +50,5 @@
 
 - [hertz/tutorials/basic-feature/protocol/websocket](https://www.cloudwego.io/docs/hertz/tutorials/basic-feature/protocol/websocket/) | ZH => EN
 - [RFC9239.zh-cn](https://github.com/L2ncE/RFC9239.zh-cn) | EN => ZH
+
+![VoV](https://s2.loli.net/2022/07/09/pkPHa2WlAJZ4639.jpg)
