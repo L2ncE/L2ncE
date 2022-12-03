@@ -52,4 +52,9 @@
 
 > ***Valar Morghulis，Valar Dohaeris🤞***
 
+#### Latest English Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ⭐️ From [L2ncE](https://github.com/L2ncE)
