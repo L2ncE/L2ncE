@@ -19,9 +19,7 @@
 - [Lanshan Studio](https://github.com/LanshanTeam)
 - [Geek & Bee](https://github.com/gocybee)
 
-### 👻 Some cool gadgets I made
-
-#### Projects
+### 👻 Some cool things I made
 
 - [hertz-csrf](https://github.com/hertz-contrib/csrf) - Csrf middleware is used to prevent cross-site request forgery attacks.
 - [hertz-loadbalance](https://github.com/hertz-contrib/loadbalance) - Provides load balancing algorithms for Hertz.
@@ -38,7 +36,10 @@
 - [LgoRPC](https://github.com/LgoLgo/LgoRPC) - A high-performance RPC framework implemented in Golang.
 - [lgo](https://github.com/LgoLgo/lgo) - Scaffolding auto-generation command line tool for various web frameworks.
 
-#### Docs
+
+### 💥 Some cool things I wrote
+
+#### Open Source Project Docs
 
 - [hertz/tutorials/framework-exten/log](https://www.cloudwego.io/docs/hertz/tutorials/framework-exten/log/) | EN
 - [hertz/tutorials/framework-exten/log](https://www.cloudwego.io/zh/docs/hertz/tutorials/framework-exten/log/) | ZH
