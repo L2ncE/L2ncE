@@ -12,12 +12,12 @@
 ### 👨‍👨‍👧‍👧 Organization
 
 #### Open Source Community
-- [CloudWeGo](https://github.com/cloudwego)
-- [Hertz-Contrib](https://github.com/hertz-contrib)
+- [CloudWeGo](https://github.com/cloudwego) - A leading practice for building enterprise cloud native middleware.
+- [Hertz-Contrib](https://github.com/hertz-contrib) - Ecosystem for Hertz.
 
 #### CQUPT Lab
-- [Lanshan Studio](https://github.com/LanshanTeam)
-- [Geek & Bee](https://github.com/gocybee)
+- [Lanshan Studio](https://github.com/LanshanTeam) - Affiliated to the Information Office of CQUPT.
+- [Geek & Bee](https://github.com/gocybee) - Development-focused technical organization.
 
 ### 👻 Some cool things I made
 
