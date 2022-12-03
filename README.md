@@ -53,7 +53,6 @@
 
 <details>
   <summary><b>Translation</b></summary>
-  <br>
 
 - [hertz/tutorials/basic-feature/protocol/websocket](https://www.cloudwego.io/docs/hertz/tutorials/basic-feature/protocol/websocket/) | ZH => EN
 - [RFC9239.zh-cn](https://github.com/L2ncE/RFC9239.zh-cn) | EN => ZH
