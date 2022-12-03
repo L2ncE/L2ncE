@@ -1,28 +1,54 @@
 
-# Ay up! 💦
+## Ay up! 💦
 
-<h1 align="center">
-  <a href="https://lanlance.cn/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=27&color=1662B5&center=true&vCenter=true&lines=fmt.Printf(%22Hello%2C+World%22);Keep+a+low+profile">
-  </a>
-</h1>
+<img align="right" alt="PNG" src="https://s2.loli.net/2022/07/09/pkPHa2WlAJZ4639.jpg" width="700" height="200" />
 
-
-![VoV](https://s2.loli.net/2022/07/09/pkPHa2WlAJZ4639.jpg)
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=L2ncE&theme=minimal" /> </div>
-
-##  [About Me](https://lanlance.cn/about)
-
-<img align="right" alt="PNG" src="https://picture.lanlance.cn/i/2022/10/15/634a1a9832e65.png" width="512" height="200" />
-
-- [Personal Website](https://lanlance.cn/)
-- [Blog](https://lanlance.cn/blog/)
-- [Gists](https://gists.lanlance.cn/)
-- [Pan](https://pan.lanlance.cn/)
-- [Tieba](https://tieba.lanlance.cn/)
+- 🤡 Focus on infra dev in Go.
+- 🏡 Visit my website [home page](https://lanlance.cn/)
+- 📚 Blog at [lanlance.cn/blog](https://lanlance.cn/blog/)
+- 📒 Knowledge base in [Gists](https://gists.lanlance.cn/)
+- 🗄 [Disk](https://pan.lanlance.cn/) for personal use
+- 🚹 Tieba [automatic sign-in](https://tieba.lanlance.cn/)
 
 > ***Valar Morghulis，Valar Dohaeris🤞***
 
-⭐️ From [L2ncE](https://github.com/L2ncE)
+### 👨‍👨‍👧‍👧 Organization
 
+#### Open Source Community
+- [CloudWeGo](https://github.com/cloudwego)
+- [Hertz-Contrib](https://github.com/hertz-contrib)
+
+#### CQUPT Lab
+- [Lanshan Studio](https://github.com/LanshanTeam)
+- [Geek & Bee](https://github.com/gocybee)
+
+### 👻 Some cool gadgets I made
+
+#### Projects
+
+- [hertz-csrf](https://github.com/hertz-contrib/csrf) - Csrf middleware is used to prevent cross-site request forgery attacks.
+- [hertz-loadbalance](https://github.com/hertz-contrib/loadbalance) - Provides load balancing algorithms for Hertz.
+- [cqupt-grabber](https://github.com/LgoLgo/cqupt-grabber) - Course grabber tool for CQUPT, please do not use it for commercial purposes.
+- [gotaway](https://github.com/LgoLgo/gotaway) - High-performance microservice gateway based on Golang.
+- [gool](https://github.com/LgoLgo/gool) - Lightweight goroutine pool.
+- [goffee](https://github.com/LgoLgo/goffee) - Goffee is a lightweight Golang web service development framework.
+- [goecs](https://github.com/LgoLgo/goecs) - Microservice distributed e-commerce system based on Hertz and gRPC.
+- [superand](https://github.com/LgoLgo/superand) - High-performance Rand library, far more efficient than the standard library.
+- [gobrainfuck-api](https://github.com/LgoLgo/gobrainfuck-api) - Online conversion between Go and Brainfuck.
+
+**TODO**
+
+- [LgoRPC](https://github.com/LgoLgo/LgoRPC) - A high-performance RPC framework implemented in Golang.
+- [lgo](https://github.com/LgoLgo/lgo) - Scaffolding auto-generation command line tool for various web frameworks.
+
+#### Docs
+
+- [hertz/tutorials/framework-exten/log](https://www.cloudwego.io/docs/hertz/tutorials/framework-exten/log/) | EN
+- [hertz/tutorials/framework-exten/log](https://www.cloudwego.io/zh/docs/hertz/tutorials/framework-exten/log/) | ZH
+- [hertz/tutorials/service-governance/service_discovery](https://www.cloudwego.io/docs/hertz/tutorials/service-governance/service_discovery/) | EN
+- [hertz/tutorials/service-governance/service_discovery](https://www.cloudwego.io/zh/docs/hertz/tutorials/service-governance/service_discovery/) | ZH
+
+#### Translation
+
+- [hertz/tutorials/basic-feature/protocol/websocket](https://www.cloudwego.io/docs/hertz/tutorials/basic-feature/protocol/websocket/) | ZH => EN
+- [RFC9239.zh-cn](https://github.com/L2ncE/RFC9239.zh-cn) | EN => ZH
