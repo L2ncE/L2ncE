@@ -56,11 +56,11 @@
 #### Latest English Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Load balancing expansion from 0 to 1](https://dev.to/llance_24/load-balancing-expansion-from-0-to-1-4552)
 - [Golang CSRF Defense in Practice](https://dev.to/llance_24/golang-csrf-defense-in-practice-10k)
 - [Golang Reverse Proxy Practices](https://dev.to/llance_24/golang-reverse-proxy-practices-36od)
 - [How to implement an elegant service discovery extension in the HTTP framework](https://dev.to/llance_24/how-to-implement-an-elegant-service-discovery-extension-in-the-http-framework-9hm)
 - [Interpretation of Open Source Go HTTP Framework | Service Registration Extension Implementation](https://dev.to/llance_24/interpretation-of-open-source-go-http-framework-service-registration-extension-implementation-1j1i)
-- [Implementation of the core structure of the high-performance Go HTTP framework Hertz for beginners](https://dev.to/llance_24/implementation-of-the-core-structure-of-the-high-performance-go-http-framework-hertz-3ncp)
 <!-- BLOG-POST-LIST:END -->
 
 > ***Valar Morghulis，Valar Dohaeris🤞***
