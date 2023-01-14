@@ -28,18 +28,12 @@
 - [cqupt-grabber](https://github.com/LgoLgo/cqupt-grabber) - Course grabber tool for CQUPT, please do not use it for commercial purposes. / `Go` `cqupt` `grabber`
 - ~~[gotaway](https://github.com/LgoLgo/gotaway) - High-performance microservice gateway based on Golang.~~ / `Go` `microservices` `gateway`
 - [gool](https://github.com/LgoLgo/gool) - Lightweight goroutine pool. / `Go` `pool` `goroutine-pool`
-- ~~[goffee](https://github.com/LgoLgo/goffee) - Goffee is a lightweight Golang web service development framework.~~ / `Go` `http` `cache` `distributed`
+- [goffee](https://github.com/LgoLgo/goffee) - Goffee is a lightweight Golang web service development framework. / `Go` `http` `cache` `distributed`
 - [goecs](https://github.com/LgoLgo/goecs) - Microservice distributed e-commerce system based on Hertz and gRPC. / `Go` `ecommerce` `gRPC` `Hertz`
 - [superand](https://github.com/LgoLgo/superand) - High-performance Rand library, far more efficient than the standard library. / `Go` `random`
 - [gobrainfuck-api](https://github.com/LgoLgo/gobrainfuck-api) - Online conversion between Go and Brainfuck. / `Go` `brainfuck`
 - [cogen](https://github.com/LgoLgo/cogen) - Automatically generate article cover according to configuration. / `Go` `generator`
 - [FreeCar](https://github.com/CyanAsterisk/FreeCar) - A full-stack WeChat applet based on Kitex and Hertz. / `Go` `Hertz` `Kitex` `microservices` `cloudnative`
-
-#### TODO
-
-- [LgoRPC](https://github.com/LgoLgo/LgoRPC) - A high-performance RPC framework implemented in Golang. / `Go` `RPC`
-- [lgo](https://github.com/LgoLgo/lgo) - Scaffolding auto-generation command line tool for various web frameworks. / `Go` `cli`
-
 
 ### 💥 Some cool things I wrote
 
