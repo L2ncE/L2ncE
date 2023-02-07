@@ -24,6 +24,7 @@
 #### Open Source Project
 
 - [hertz-csrf](https://github.com/hertz-contrib/csrf) - Csrf middleware is used to prevent cross-site request forgery attacks. / `Go` `Hertz` `CSRF` `middleware`
+- [hertz-casbin](https://github.com/hertz-contrib/casbin) - Supports various access control models by Casbin. / `Go` `Hertz` `casbin` `middleware`
 - [hertz-loadbalance](https://github.com/hertz-contrib/loadbalance) - Provides load balancing algorithms for Hertz. / `Go` `Hertz` `loadbalance` `middleware`
 - [cqupt-grabber](https://github.com/LgoLgo/cqupt-grabber) - Course grabber tool for CQUPT, please do not use it for commercial purposes. / `Go` `cqupt` `grabber`
 - [gotaway](https://github.com/LgoLgo/gotaway) - High-performance microservice gateway based on Golang. / `Go` `microservices` `gateway`
