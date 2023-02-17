@@ -21,19 +21,23 @@
 
 ### 👻 Some cool things I made
 
-#### Open Source Project
+#### Middleware
 
 - [hertz-csrf](https://github.com/hertz-contrib/csrf) - Csrf middleware is used to prevent cross-site request forgery attacks. / `Go` `Hertz` `CSRF` `middleware`
 - [hertz-casbin](https://github.com/hertz-contrib/casbin) - Supports various access control models by Casbin. / `Go` `Hertz` `casbin` `middleware`
 - [hertz-loadbalance](https://github.com/hertz-contrib/loadbalance) - Provides load balancing algorithms for Hertz. / `Go` `Hertz` `loadbalance` `middleware`
+
+#### Tool & Frame
 - [cqupt-grabber](https://github.com/LgoLgo/cqupt-grabber) - Course grabber tool for CQUPT, please do not use it for commercial purposes. / `Go` `cqupt` `grabber`
 - [gotaway](https://github.com/LgoLgo/gotaway) - High-performance microservice gateway based on Golang. / `Go` `microservices` `gateway`
 - [gool](https://github.com/LgoLgo/gool) - Lightweight goroutine pool. / `Go` `pool` `goroutine-pool`
 - [goffee](https://github.com/LgoLgo/goffee) - Goffee is a lightweight Golang web service development framework. / `Go` `http` `cache` `distributed`
-- [goecs](https://github.com/LgoLgo/goecs) - Microservice distributed e-commerce system based on Hertz and gRPC. / `Go` `ecommerce` `gRPC` `Hertz`
 - [superand](https://github.com/LgoLgo/superand) - High-performance Rand library, far more efficient than the standard library. / `Go` `random`
 - [cogen](https://github.com/LgoLgo/cogen) - Automatically generate article cover according to configuration. / `Go` `generator`
+
+#### Biz Demo
 - [FreeCar](https://github.com/CyanAsterisk/FreeCar) - A full-stack WeChat applet based on Kitex and Hertz. / `Go` `Hertz` `Kitex` `microservices` `cloudnative`
+- [goecs](https://github.com/LgoLgo/goecs) - Microservice distributed e-commerce system based on Hertz and gRPC. / `Go` `ecommerce` `gRPC` `Hertz`
 
 ### 💥 Some cool things I wrote
 
