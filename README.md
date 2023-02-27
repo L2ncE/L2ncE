@@ -37,6 +37,7 @@
 
 #### Biz Demo
 - [FreeCar](https://github.com/CyanAsterisk/FreeCar) - A full-stack WeChat applet based on Kitex and Hertz. / `Go` `Hertz` `Kitex` `microservices` `cloudnative`
+- [TikGok](https://github.com/CyanAsterisk/TikGok) - A minimal version of TikTok based on Hertz and Kitex. / `Go` `Hertz` `Kitex` `microservices` `cloudnative`
 - [goecs](https://github.com/LgoLgo/goecs) - Microservice distributed e-commerce system based on Hertz and gRPC. / `Go` `ecommerce` `gRPC` `Hertz`
 
 ### 💥 Some cool things I wrote
