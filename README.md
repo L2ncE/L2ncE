@@ -6,8 +6,7 @@
 - 🏡 Visit my website [home page](https://lanlance.cn/)
 - 📚 Blog at [lanlance.cn/blog](https://lanlance.cn/blog/)
 - 📒 Knowledge base in [Gists](https://gists.lanlance.cn/)
-- 🗄 [Disk](https://pan.lanlance.cn/) for personal use
-- 🚹 Tieba [automatic sign-in](https://tieba.lanlance.cn/)
+- 🚹 My rookie resume[CV](https://lanlance.cn/cv.pdf)
 
 ### 👨‍👨‍👧‍👧 Organization
 
