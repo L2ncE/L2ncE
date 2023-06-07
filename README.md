@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-- 🤡 Focus on infra dev in Go.
+- 🤡 Focus on infra dev in Go
 - 🏡 Visit my website [home page](https://lanlance.cn/)
 - 📚 Blog at [lanlance.cn/blog](https://lanlance.cn/blog/)
 - 📒 Knowledge base in [Gists](https://gists.lanlance.cn/)
