@@ -3,10 +3,10 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 - 🤡 Focus on infra dev in Go
-- 🏡 Visit my website [home page](https://lanlance.cn/)
-- 📚 Blog at [lanlance.cn/blog](https://lanlance.cn/blog/)
+- 🏡 Visit my personal [website](https://lanlance.cn/)
+- 📸 Find beauty in the [gallery](https://photo.lanlance.cn/)
 - 📒 Knowledge base in [Gists](https://gists.lanlance.cn/)
-- 🚹 My rookie [resume](https://lanlance.cn/cv.pdf)
+- 🚹 My rookie [CV](https://lanlance.cn/cv.pdf)
 
 ### 👨‍👨‍👧‍👧 Organization
 
