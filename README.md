@@ -3,8 +3,8 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 - 🤡 Focus on infra dev in Go
-- 🏡 Visit my personal [website](https://lanlance.cn/)
-- 📸 Find beauty in the [gallery](https://photo.lanlance.cn/)
+- 🏡 Visit my personal [Website](https://lanlance.cn/)
+- 📸 Find beauty in the [Gallery](https://photo.lanlance.cn/)
 - 📒 Knowledge base in [Gists](https://gists.lanlance.cn/)
 - 🚹 My rookie [CV](https://lanlance.cn/cv.pdf)
 
