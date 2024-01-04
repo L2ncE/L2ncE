@@ -6,7 +6,6 @@
 - 🏡 Visit my personal [Website](https://lanlance.cn/)
 - 📸 Find beauty in the [Gallery](https://photo.lanlance.cn/)
 - 📒 Knowledge base in [Gists](https://gists.lanlance.cn/)
-- 🚹 My rookie [Resume](https://lanlance.cn/cv.pdf)
 
 ### 👨‍👨‍👧‍👧 Organization
 
