@@ -12,6 +12,7 @@
 #### Open Source Community
 - [CloudWeGo](https://github.com/cloudwego) - A leading practice for building enterprise cloud native middleware.
 - [Hertz-Contrib](https://github.com/hertz-contrib) - Ecosystem for Hertz.
+- [Dubbo-Go](https://github.com/dubbogo) - Dubbogo Org.
 
 #### CQUPT Lab
 - [Lanshan Studio](https://github.com/LanshanTeam) - Affiliated to the Information Office of CQUPT.
@@ -27,12 +28,9 @@
 
 #### Tool & Frame
 - [cqupt-grabber](https://github.com/LgoLgo/cqupt-grabber) - Course grabber tool for CQUPT, please do not use it for commercial purposes. / `Go` `cqupt` `grabber`
-- [gool](https://github.com/LgoLgo/gool) - Lightweight goroutine pool. / `Go` `pool` `goroutine-pool`
 - [goffee](https://github.com/LgoLgo/goffee) - Goffee is a lightweight distributed cache framework based on Go. / `Go` `cache` `distributed`
-- [superand](https://github.com/LgoLgo/superand) - High-performance Rand library, far more efficient than the standard library. / `Go` `random`
 - [cogen](https://github.com/LgoLgo/cogen) - Automatically generate article cover according to configuration. / `Go` `generator`
 - [geentrant](https://github.com/LgoLgo/geentrant) - Lightweight reentrant lock implemented in Go. / `Go` `reentrantlock`
-- [Pysegine](https://github.com/LgoLgo/Pysegine) - A simple search engine for practicing object-oriented design in Python. / `Python` `search-engine`
 
 #### Biz Demo
 - [FreeCar](https://github.com/CyanAsterisk/FreeCar) - A full-stack WeChat applet based on Kitex and Hertz. / `Go` `Hertz` `Kitex` `microservices` `cloudnative`
