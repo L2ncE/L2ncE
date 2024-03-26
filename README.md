@@ -1,8 +1,8 @@
 <h3 align="center">LanLance's README</h3>
 
-<p>👨🏻‍🎨 I used to be an intern in the ByteDance [DCar](https://www.dongchedi.com/) and TaiChi Graphics [Meshy](https://www.meshy.ai/) team, and now I am an intern in the ByteDance [Lark](https://www.larksuite.com/) Core.</p>
+👨🏻‍🎨 I used to be an intern in the ByteDance [DCar](https://www.dongchedi.com/) and TaiChi Graphics [Meshy](https://www.meshy.ai) team, and now I am an intern in the ByteDance [Lark](https://www.larksuite.com/) Core.
 
-<p>☁️ I am also a member of CloudWeGo, the Committer of Hertz, maintaining the following repos:</p>
+☁️ I am also a member of CloudWeGo, the Committer of Hertz, maintaining the following repos:
 
 - 🪜 [hertz-csrf](https://github.com/hertz-contrib/csrf) - Csrf middleware is used to prevent cross-site request forgery attacks.
 - 👩‍👩‍👧‍👧 [hertz-casbin](https://github.com/hertz-contrib/casbin) - Supports various access control models by Casbin.
