@@ -1,6 +1,6 @@
 <h3 align="center">LanLance's README</h3>
 
-👨🏻‍🎨 I used to be an intern in the ByteDance [DCar](https://www.dongchedi.com/) and TaiChi Graphics [Meshy](https://www.meshy.ai) team, and now I am an intern in the ByteDance [Lark](https://www.larksuite.com/) Core.
+👨🏻‍🎨 I used to be an intern in the ByteDance [DCar](https://www.dongchedi.com/), [Lark](https://www.larksuite.com/) Core, and TaiChi Graphics [Meshy](https://www.meshy.ai) team.
 
 ☁️ I am also a member of CloudWeGo, the Committer of Hertz, maintaining the following repos:
 
