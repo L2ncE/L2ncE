@@ -1,6 +1,6 @@
 <h3 align="center">LanLance's README</h3>
 
-👨🏻‍🎨 Currently interning at [Meituan](https://www.meituan.com/) TSP(Transaction System Platform). I used to be a R&D intern in the [DCar](https://www.dongchedi.com/), [Lark](https://www.larksuite.com/), and [Meshy](https://www.meshy.ai).
+👨🏻‍🎨 Enjoying life now. I used to be an R&D intern in the [DCar](https://www.dongchedi.com/), [Lark](https://www.larksuite.com/), [Meituan](https://www.meituan.com/) TSP(Transaction System Platform) and [Meshy](https://www.meshy.ai).
 
 ☁️ I am also a member of CloudWeGo, the Committer of Hertz, maintaining the following repos:
 
