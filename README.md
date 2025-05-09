@@ -11,9 +11,10 @@
 
 **📚 Systematic Article**
 
-- [程序静态分析指北](https://gists.lanlance.cn/cssys/data-flow-analysis)
+- [程序数据流静态分析指北](https://gists.lanlance.cn/cssys/data-flow-analysis)
 - [ElasticSearch 101](https://gists.lanlance.cn/cssys/es-101)
 
 **❤️‍🩹 Get to know me more**
 
-📸 Find beauty in the [gallery](https://photo.lanlance.cn/) | 🎪 Visit my personal [website](https://lanlance.cn/) | 🪛 Little toys in [LgoLgo](https://github.com/LgoLgo)
+👏🏻 欢迎关注公众号：[LanTech指南](https://raw.githubusercontent.com/L2ncE/images/main/PicGo/qrcode_for_gh_8805cf7b8d90_258.jpg) | 📸 Find beauty in the [gallery](https://photo.lanlance.cn/) | 🎪 Visit my personal [website](https://lanlance.cn/) | 🪛 Little toys in [LgoLgo](https://github.com/LgoLgo)
+
