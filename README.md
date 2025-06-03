@@ -16,5 +16,5 @@
 
 **❤️‍🩹 Get to know me more**
 
-👏🏻 欢迎关注公众号：[LanTech指南](https://raw.githubusercontent.com/L2ncE/images/main/PicGo/qrcode_for_gh_8805cf7b8d90_258.jpg) | 📸 Find beauty in the [gallery](https://photo.lanlance.cn/) | 🎪 Visit my personal [website](https://lanlance.cn/) | 🪛 Little toys in [LgoLgo](https://github.com/LgoLgo)
+👏🏻 欢迎关注小红书：[LanLance](https://raw.githubusercontent.com/L2ncE/images/main/PicGo/imagesb1616c0ba9e91a4d9695dba8b91b4164_720.png) | 📸 Find beauty in the [gallery](https://photo.lanlance.cn/) | 🎪 Visit my personal [website](https://lanlance.cn/) | 🪛 Little toys in [LgoLgo](https://github.com/LgoLgo)
 
